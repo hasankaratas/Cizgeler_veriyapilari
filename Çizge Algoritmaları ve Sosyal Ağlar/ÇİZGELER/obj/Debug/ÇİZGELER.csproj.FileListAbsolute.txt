@@ -1,0 +1,91 @@
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\bin\Debug\ÇİZGELER.exe.config
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\bin\Debug\ÇİZGELER.exe
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\bin\Debug\ÇİZGELER.pdb
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.csprojResolveAssemblyReference.cache
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Properties.Resources.resources
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.GenerateResource.Cache
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.CoreCompileInputs.cache
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.exe
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.pdb
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Form1.resources
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Form2.resources
+c:\users\serbay\source\repos\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Form3.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.exe.config
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form1.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form2.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form3.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.exe.config
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form1.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form2.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form3.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form1.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form2.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form3.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.exe.config
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya - Kopya - Kopya\ÇİZGELER\bin\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form4.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\bin\Debug\ÇİZGELER.exe.config
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\bin\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\bin\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Form1.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Form2.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Form3.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Form4.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\ÇİZGELER\ÇİZGELER\obj\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\ÇİZGELER - Kopya\ÇİZGELER\obj\Debug\ÇİZGELER.Form5.resources
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\bin\Debug\ÇİZGELER.exe.config
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\bin\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\bin\Debug\ÇİZGELER.pdb
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form1.resources
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form2.resources
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form3.resources
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form4.resources
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form5.resources
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.exe
+C:\Users\SERBAY\Desktop\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.pdb
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\bin\Debug\ÇİZGELER.exe.config
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\bin\Debug\ÇİZGELER.exe
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\bin\Debug\ÇİZGELER.pdb
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form1.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form2.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form3.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form4.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Form5.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.Properties.Resources.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.exe
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\Çizge Algoritmaları ve Sosyal Ağlar\ÇİZGELER\obj\Debug\ÇİZGELER.pdb
